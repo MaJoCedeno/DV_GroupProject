@@ -1,0 +1,14 @@
+gunicorn
+plotly
+dash
+requests
+dash_renderer
+dash-html-components
+dash-core-components
+pandas
+numpy
+seaborn
+statsmodels
+colour
+dash_bootstrap_components
+openpyxl
